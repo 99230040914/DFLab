@@ -82,7 +82,7 @@ Compile the Java files with the required dependency:
 javac -cp commons-math3-3.1.1.jar -source 1.8 -target 1.8 *.java
 ```
 
-![WhatsApp Image 2025-10-26 at 23 22 10_0148747c](https://github.com/user-attachments/assets/7b1b3c3a-2fce-4c03-a3df-a8b587582a5b)
+<img width="1457" height="261" alt="image" src="https://github.com/user-attachments/assets/4727279f-5169-4044-9679-b262b204b188" />
 
 
 💡 Note: Ignore warnings like `RSAnalysis.java uses unchecked or unsafe operations`. Compilation is successful if `.class` files are generated.
@@ -96,7 +96,8 @@ Create a file named `manifest.mf` in the same folder:
 ```
 Main-Class: StegExpose
 ```
-![WhatsApp Image 2025-10-26 at 23 22 55_b76bc861](https://github.com/user-attachments/assets/4baed3fc-593d-45ec-bad7-5ff56e567606)
+<img width="1424" height="343" alt="image" src="https://github.com/user-attachments/assets/cf2c24e0-4cbe-432b-992d-dc577f49d3c5" />
+
 
 
 Build the JAR:
@@ -105,7 +106,7 @@ Build the JAR:
 jar cfm StegExpose.jar manifest.mf *.class
 ```
 
-<img width="1478" height="96" alt="{32B41693-9868-4C22-A6F4-82C8DEDF50A2}" src="https://github.com/user-attachments/assets/294a780e-4fdf-463c-a34e-3fcea45cef52" />
+<img width="857" height="29" alt="image" src="https://github.com/user-attachments/assets/ffa07ff7-5c2e-4c00-9e77-c8fcac97a24c" />
 
 
 ✅ You now have `StegExpose.jar` ready to use.
@@ -115,7 +116,7 @@ jar cfm StegExpose.jar manifest.mf *.class
 ## ▶️ Step 3 — Run StegExpose
 
 ```bash
-java -jar StegExpose.jar "C:\Users\Sai Kumar\StegExpose\testFolder"
+java -jar StegExpose.jar "C:\Users\99230\StegExpose\testFolder"
 ```
 
 ---
@@ -147,7 +148,7 @@ The tool lists images with potential hidden data and estimates the approximate s
 Generate a results file for easier review:
 
 ```bash
-java -jar StegExpose.jar "C:\Users\Sai Kumar\StegExpose\testFolder" fast 0.3 results.csv
+java -jar StegExpose.jar "C:\Users\99230\StegExpose\testFolder" fast 0.3 results.csv
 
 
 

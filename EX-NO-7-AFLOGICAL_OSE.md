@@ -41,7 +41,8 @@
         ```
     * **Verification:** The device should be listed, confirming that the ADB connection is ready.
    
-![WhatsApp Image 2025-10-28 at 00 36 44_9858e016](https://github.com/user-attachments/assets/6cfbe1aa-1738-4d41-9825-9020d873ee3e)
+![WhatsApp Image 2025-10-28 at 10 22 28_ef01773f](https://github.com/user-attachments/assets/bd008770-8d57-49d1-b6df-5b6f07b7f6b1)
+
 
 
 ---
@@ -78,7 +79,7 @@
         ```bash
         adb pull /sdcard/aflogical /path/to/destination
         ```
-![WhatsApp Image 2025-10-28 at 00 39 27_26e4ec82](https://github.com/user-attachments/assets/044d4337-fd98-4a94-ad13-5f785a061bec)
+![WhatsApp Image 2025-10-28 at 10 22 37_5f269ec8](https://github.com/user-attachments/assets/da60edc8-2d85-4e36-91a1-2c7a3238a95a)
 
 
 

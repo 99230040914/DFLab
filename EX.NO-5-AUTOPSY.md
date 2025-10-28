@@ -12,7 +12,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
   -  *Click on New Case.*
     
     <br>
-   <img width="1713" height="907" alt="image" src="https://github.com/user-attachments/assets/591dce2a-1727-4fb5-9733-61d3f71df1e2" />
+  ![WhatsApp Image 2025-10-28 at 09 40 11_71715664](https://github.com/user-attachments/assets/425815aa-71e5-4827-83d2-d37568b6bfde)
 
      <br>
      
@@ -21,7 +21,8 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
     
        <br>
        
-      <img width="990" height="589" alt="image" src="https://github.com/user-attachments/assets/4a9dca99-b53c-4679-8df4-ec1bf57c8440" />
+ ![WhatsApp Image 2025-10-28 at 09 40 03_7b4ec3dd](https://github.com/user-attachments/assets/5028e3af-8e36-4ca9-aa4f-583e3bd2a9ae)
+
 
      <br>
 
@@ -32,7 +33,8 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Start Analysis
  <br>
 
-  <img width="1712" height="908" alt="image" src="https://github.com/user-attachments/assets/c089b4ae-c7a8-4126-ad31-af70372acb72" />
+  ![WhatsApp Image 2025-10-28 at 09 40 03_7b4ec3dd](https://github.com/user-attachments/assets/0b50b111-16dd-4b61-bddc-42e9364f895b)
+
 
 <br>
  <br>
@@ -43,7 +45,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Use the Tree Viewer
 
 <br>
-<img width="1918" height="1027" alt="Screenshot 2025-09-02 124232" src="https://github.com/user-attachments/assets/96c97853-49d1-4bc7-a578-470f1e618d22" />
+![WhatsApp Image 2025-10-28 at 09 40 04_63440460](https://github.com/user-attachments/assets/c679405b-8962-4b66-8bf9-c92f8333881d)
 
 <br>
 <br>
@@ -64,8 +66,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 - Hash Analysis:
   - Compare file hashes with known databases to identify known good or bad files.
     <br>
-<img width="1918" height="1022" alt="Screenshot 2025-09-02 124528" src="https://github.com/user-attachments/assets/7e7676f4-73a0-419c-94a0-d7cbeea9cf4e" />
-
+![WhatsApp Image 2025-10-28 at 09 40 05_ffa283eb](https://github.com/user-attachments/assets/f9b153c6-9ebe-432c-8316-cae65ae9b6d4)
 
 <br>
 <br>
@@ -76,7 +77,8 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
  - After analyzing the data, click on Generate Report from the toolbar.
 
 <p align="center">
- <img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/1f8a73c6-1773-4fb6-ae4a-111d8ffbd0fe" />
+![WhatsApp Image 2025-10-28 at 09 40 03_76adc1cc](https://github.com/user-attachments/assets/1cde3799-1d77-45ed-8005-dee457ffa7c0)
+
 </p>
 
 <p align="center">
@@ -86,7 +88,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
 -  *Report*
 
 <br>
-<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/f9d90db8-78d2-40ad-b0fc-45d5acbc21e6" />
+![WhatsApp Image 2025-10-28 at 09 40 08_f3097dc5](https://github.com/user-attachments/assets/47450f25-815a-4dfe-bd3d-1504022766ba)
 
 <br>
 
